@@ -1,4 +1,4 @@
-Pillow==950
+Pillow==9.5.0
 streamlit
 pandas 
 numpy
